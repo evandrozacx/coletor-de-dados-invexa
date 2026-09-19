@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Barcode Bars -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,36h4v36h-4zM42,36h2v36h-2zM48,36h6v36h-6zM58,36h2v36h-2zM64,36h4v36h-4zM70,36h4v36h-4z" />
+    <!-- Red Laser Scan Line -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M28,53h52v2h-52z" />
+    <!-- Scanner Frame Corners -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,30h12v4h-8v8h-4zM66,30h12v12h-4v-8h-8zM30,66h4v8h8v4h-12zM74,66h4v12h-12v-4h8z" />
+</vector>
