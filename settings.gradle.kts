@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Coletor"
+rootProject.name = "Invexa Lite"
 
 include(":app")

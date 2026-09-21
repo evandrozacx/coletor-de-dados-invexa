@@ -1,5 +1,5 @@
 {
-  "name": "Coletor",
+  "name": "Invexa Lite",
   "description": "Aplicativo de coleta de inventário com leitura de código de barras",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

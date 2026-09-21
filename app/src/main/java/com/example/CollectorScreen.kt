@@ -603,7 +603,7 @@ fun CollectorScreen(
                     } else {
                         viewModel.scannedItems.toList()
                     }
-                    items(displayedItems) { item ->
+                    items(items = displayedItems, key = { item -> item.ean + item.timestamp }) { item ->
                         Row(
                             modifier = Modifier
                                 .fillMaxWidth()
